@@ -14,14 +14,14 @@ Controls inbound and outbound traffic (e.g., allowing HTTP/SSH access).
 Application Load Balancer (ALB)  
 Distributes incoming traffic across multiple EC2 instances for high availability.  
 
-# ⚙️ Key Features  
+## ⚙️ Key Features  
 Infrastructure provisioning using Terraform  
 Modular and reusable code structure  
 Secure networking with VPC and Security Groups  
 High availability using ALB  
 Automated deployment and teardown  
 
-# 📁 Project Structure    
+## 📁 Project Structure    
 terraform-aws-infra/  
 │── main.tf  
 │── variables.tf  
@@ -30,7 +30,7 @@ terraform-aws-infra/
 │── modules/ (optional)  
 │── README.md  
 
-# How to Use  
+## How to Use  
 Initialize Terraform  
 terraform init  
 
@@ -46,7 +46,7 @@ terraform apply
 Destroy infrastructure  
 terraform destroy  
 
-# 🌐 Outcome  
+## 🌐 Outcome  
 Deployed scalable AWS infrastructure  
 Load-balanced application using ALB  
 Secure and isolated network setup  
