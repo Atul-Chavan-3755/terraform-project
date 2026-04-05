@@ -1,4 +1,4 @@
-## Terraform AWS Infrastructure Project  
+# Terraform AWS Infrastructure Project  
 📦 Project Overview  
 This project demonstrates Infrastructure as Code (IaC) using Terraform to provision and manage AWS resources in a scalable and automated way. The infrastructure includes a custom Virtual Private Cloud (VPC), EC2 instances, Security Groups, and an Application Load Balancer (ALB).  
 
